@@ -1,3 +1,1 @@
-### All
-
-Hey what's up dude
+### Croath's blog
