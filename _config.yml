@@ -1,0 +1,8 @@
+title: Croath.github.io
+description: 
+google_analytics: UA-45609624-1
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
